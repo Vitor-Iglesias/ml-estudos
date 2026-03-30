@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# ML
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchvision
+
+# Hugging Face
+transformers
+datasets
+
+# Experiment Tracking
+wandb
+
+# Jupyter
+jupyter
+ipywidgets
+
+# Utils
+tqdm
+python-dotenv
